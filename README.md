@@ -3,7 +3,7 @@
 
 # Kubeform IBM Provider Code Generator
 
-Generates code for [Terraform IBM Cloud Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
+Kubeform code generator for [Terraform IBM Cloud Provider](https://github.com/IBM-Cloud/terraform-provider-ibm)
 
 ## Installation
 
