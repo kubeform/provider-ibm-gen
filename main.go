@@ -42,6 +42,7 @@ func main() {
 		ProviderNameOriginal: "ibm",
 		ProviderData:         ibm.Provider(),
 		ProviderImportPath:   "github.com/IBM-Cloud/terraform-provider-ibm/ibm",
+		ProviderConfig:       "IBM-Cloud/ibm",
 		Version:              "v1alpha1",
 		APIsPath:             apisPath,
 		ControllerPath:       controllerPath,
