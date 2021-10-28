@@ -42,8 +42,8 @@ github.com/IBM-Cloud/container-services-go-sdk v0.0.0-20210705152127-41ca00fc9a6
 github.com/IBM-Cloud/ibm-cloud-cli-sdk v0.5.3/go.mod h1:RiUvKuHKTBmBApDMUQzBL14pQUGKcx/IioKQPIcRQjs=
 github.com/IBM-Cloud/power-go-client v1.0.55 h1:XoRU8FWYY8NUKau1nkErkf2FHAUbFEbbXtbLTvaGp9c=
 github.com/IBM-Cloud/power-go-client v1.0.55/go.mod h1:I4r5tCrA8mV5GFqGAJG4/Tn+/JpR+XLnDCLLNVKJxuI=
-github.com/IBM-Cloud/softlayer-go v1.0.3-tf h1:FZF0D11BcYvDCZtWC0ZNEC6PKivuahW/nW9naK7H2PU=
-github.com/IBM-Cloud/softlayer-go v1.0.3-tf/go.mod h1:6HepcfAXROz0Rf63krk5hPZyHT6qyx2MNvYyHof7ik4=
+github.com/IBM-Cloud/softlayer-go v1.0.5-tf h1:koUAyF9b6X78lLLruGYPSOmrfY2YcGYKOj/Ug9nbKNw=
+github.com/IBM-Cloud/softlayer-go v1.0.5-tf/go.mod h1:6HepcfAXROz0Rf63krk5hPZyHT6qyx2MNvYyHof7ik4=
 github.com/IBM-Cloud/terraform-provider-ibm v1.28.1-0.20210729083022-bc68146ed6f3 h1:4rYne7+vgFPukYR2CJESLTBqDUEDQ7EyOHktwHrjcjs=
 github.com/IBM-Cloud/terraform-provider-ibm v1.28.1-0.20210729083022-bc68146ed6f3/go.mod h1:XFQB0RbUS5c85r0Dy+xWn7UGHvDuc0FiORealmWIflg=
 github.com/IBM/apigateway-go-sdk v0.0.0-20210714141226-a5d5d49caaca h1:crniVcf+YcmgF03NmmfonXwSQ73oJF+IohFYBwknMxs=
@@ -1151,8 +1151,8 @@ k8s.io/klog v0.0.0-20181102134211-b9b56d5dfc92/go.mod h1:Gq+BEi5rUBO/HRz0bTSXDUc
 k8s.io/klog v1.0.0 h1:Pt+yjF5aB1xDSVbau4VsWe+dQNzA0qv1LlXdC2dF6Q8=
 k8s.io/klog v1.0.0/go.mod h1:4Bi6QPql/J/LkTDqv7R/cd3hPo4k2DG6Ptcz060Ez5I=
 k8s.io/kube-openapi v0.0.0-20200410145947-61e04a5be9a6/go.mod h1:GRQhZsXIAJ1xR0C9bd8UpWHZ5plfAS9fzPjJuQ6JL3E=
-kubeform.dev/generator-v2 v0.0.25 h1:qUsUrDKW26qEhVbuQX5sQl9Xw4U7ik8z1eeCW6+bCRA=
-kubeform.dev/generator-v2 v0.0.25/go.mod h1:VxCKquSSSy9vhqOaegalfcqRCbbfvL1Bt+keoFx22mU=
+kubeform.dev/generator-v2 v0.0.26 h1:qdD2U7ScS+GoLI266g5LnINN+sTeYPc4sHuCf2O2Soc=
+kubeform.dev/generator-v2 v0.0.26/go.mod h1:VxCKquSSSy9vhqOaegalfcqRCbbfvL1Bt+keoFx22mU=
 rsc.io/binaryregexp v0.2.0/go.mod h1:qTv7/COck+e2FymRvadv62gMdZztPaShugOCi3I+8D8=
 rsc.io/quote/v3 v3.1.0/go.mod h1:yEA65RcK8LyAZtP9Kv3t0HmxON59tX3rD+tICJqUlj0=
 rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
